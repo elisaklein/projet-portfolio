@@ -19,7 +19,7 @@
 		</header>
 
 		<div class="traitement">
-			<p>Merci <?= $_POST['prenom']. ' ' .$_POST['nom'] ?> pour votre message.</p>
+			<p>Merci <?= $_POST['prenom']. ' ' .$_POST['nom'] ?> pour votre super message.</p>
 
 			<p><a href="index.html">Retour à l'accueil</a></p>
 		</div>
